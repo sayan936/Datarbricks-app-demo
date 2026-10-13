@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 # Page config
 # ------------------------------------------------------------------
 st.set_page_config(
-    page_title="Sales Dashboard",
+    page_title="Sales Dashboard Demo",
     page_icon="📊",
     layout="wide",
 )
